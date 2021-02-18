@@ -1,0 +1,31 @@
+@{
+ViewData["Title"] = "Welcome to Music World";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="~/css/index.css" rel="stylesheet" type="text/css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <h1>@ViewData["Title"]</h1>
+    <ul class="navbar-nav flex-grow-1">
+        <li class="nav-item">
+            <img src="~/Images/play.png" width="20" height="20" />
+            <a asp-area="" asp-controller="Music" asp-action="FirstSong">Click here to listen to first Song</a>
+        </li>
+        <li class="nav-item">
+            <img src="~/Images/play.png" width="20" height="20" />
+            <a asp-area="" asp-controller="Music" asp-action="SecondSong">Click here to listen to second Song</a>
+        </li>
+        <li class="nav-item">
+            <img src="~/Images/play.png" width="20" height="20" />
+            <a asp-area="" asp-controller="Music" asp-action="ThirdSong">Click here to listen to third Song</a>
+        </li>
+    </ul>
+</body>
+
+</html>
