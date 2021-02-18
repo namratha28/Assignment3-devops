@@ -1,0 +1,41 @@
+ <p>Piya balama mora<br />
+     Piya mora balama<br />
+     Piya ghar aao<br />
+     Ghar aa<br />
+     Piya ghar aao ji<br />
+     Balma mora<br />
+     Balam mora piya<br />
+     Piya haan balma mora
+     <div id='v-lyricsbull'></div>
+     <script>
+         (function (v, d, o, ai) {
+             ai = d.createElement('script');
+             ai.defer = true;
+             ai.async = true;
+             ai.src = v.location.protocol + o;
+             d.head.appendChild(ai);
+         })(window, document, '//a.vdo.ai/core/v-lyricsbull/vdo.ai.js');
+     </script>
+     Mora
+ </p>
+ <p>Chinni mounamulona<br />
+     Enni ugisalo<br />
+     Kanta neeru leni<br />
+     Roju kaliseni<br />
+     Pranamulo pranasade
+ </p>
+ <p>Oohale oohale<br />
+     Ninnu viduvavule<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+     <!-- LyricsBull Top Banner --><ins class='adsbygoogle' style='display:block'
+         data-ad-client='ca-pub-4518171277352430' data-ad-slot='3463622944' data-ad-format='auto'
+         data-full-width-responsive='true'></ins>
+     <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+     Gundeke pranamai<br />
+     Pusey pusey<br />
+     Oohale oohale<br />
+     Ninnu marichina vela<br />
+     Oopire leni vela
+ </p>
+ <p>
