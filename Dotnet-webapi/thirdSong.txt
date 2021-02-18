@@ -1,0 +1,55 @@
+ <p class='verse'>Ooo...<br>
+     Do Patte Patjhad Ke Pedon Se Utrey Thay<br>
+     Pedon Ki Shaakhon Se Utrey Thay<br>
+     Phir Utne Mausam Guzre Vo Patte Do Bechaare<br>
+     Phir Ugne Ki Chaahat Mein Vo Sehraon Se Guzre<br>
+     Vo Patte Dil Dil Dil Thay<br>
+     Vo Dil Thay Dil Dil Dil Thay<br>
+     Dil Hai To Phir Dard Hoga<br>
+     Dard Hai To Dil Bhi Hoga<br>
+     Mausam Guzarte Rehte Hain<br>
+     Dil Hai To Phir Dard Hoga<br>
+     Dard Hai To Dil Bhi Hoga<br>
+     Mausam Guzarte Rehte Hain<br>
+     Dil Se Dil Se Dil Se Dil Se<br>
+     Dil Se Re</p>
+ <p class='verse'>Dil To Aakhir Dil Hai Na<br>
+     Meethi Si Mushkil Hai Na<br>
+     Piya Piya<br>
+     Piya Piya Piya Na Piya<br>
+     Jiya Jiya Jiya Na Jiya<br>
+     Dil Se Re</p>
+ <p class='verse'>Ooo...<br>
+     Bandhan Hai Rishton Mein<br>
+     Kaaton Ki Taarein Hain<br>
+     Patthar Ke Darwaaze Deewaarein<br>
+     Belein Phir Bhi Ugti Hain<br>
+     Aur Guchchhe Bhi Khilte Hain<br>
+     Aur Chalte Hain Afsaane<br>
+     Kirdaar Bhi Milte Hain<br>
+     Vo Rishtey Dil Dil Dil Thay<br>
+     Vo Dil Thay Dil Dil Dil Thay<br>
+     Gam Dil Ke Pak Chulbule Hain<br>
+     Paani Ke Ye Bulbule Hain<br>
+     Bujhte Hain Bate Rehte Hain<br>
+     Gam Dil Ke Pak Chulbule Hain<br>
+     Paani Ke Ye Bulbule Hain<br>
+     Bujhte Hain Bate Rehte Hain<br>
+     Dil Se Dil Se Dil Se Dil Se<br>
+     Dil Se Re<br>
+     Dil Se Re Dil Se Re<br>
+     Dil Se Re Dil Se Re</p>
+ <p class='verse'>Dil To Aakhir Dil Hai Na<br>
+     Meethi Si Mushkil Hai Na<br>
+     Piya Piya<br>
+     Dil To Aakhir Dil Hai Na<br>
+     Meethi Si Mushkil Hai Na<br>
+     Piya Piya Piya Na Piya<br>
+     Piya Piya<br>
+     Jiya Jiya Jiya Na Jiya<br>
+     Piya Piya Piya Na Piya<br>
+     Dil Se Re<br>
+     Jiya Jiya Jiya Na Jiya<br>
+     Dil Se Re<br>
+     Dil Se Re Dil Se Re<br>
+     Dil Se Re...</p>
