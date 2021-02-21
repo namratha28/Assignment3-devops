@@ -19,7 +19,7 @@ class SongPage extends Component {
   constructor(props) {
     super(props);
     this.state = {
-        songData: 'abc',
+        songData: '',
     };
 };
   firstSong() {
